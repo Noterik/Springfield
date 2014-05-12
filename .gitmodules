@@ -1,0 +1,6 @@
+[submodule "Mojo"]
+	path = Mojo
+	url = git://github.com/Noterik/Mojo.git
+[submodule "Rafael"]
+	path = Rafael
+	url = git://github.com/Noterik/Rafael.git
